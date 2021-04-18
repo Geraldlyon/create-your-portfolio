@@ -1,0 +1,65 @@
+.container {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile h1 {
+    color:purple;
+}
+
+.profile span {
+    color: purple;
+}
+
+.profile p {
+    justify-content: end;
+}
+
+.professional-experience h2 {
+    text-align: center;
+    color: purple;
+}
+
+.date {
+    float: right;
+}
+
+.company {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bolder;
+    
+}
+
+.company-name {
+    position: relative;
+    top: 20px;
+}
+
+.education h2 {
+    text-align: center;
+    color: purple;
+}
+
+.projects h2 {
+    color: purple;
+    text-align: center;
+}
+
+.skills h2 {
+    color: purple;
+    text-align: center;
+}
+
+.interest h2 {
+    color: purple;
+    text-align: center;
+}
+
+body {
+    margin-bottom: 5vw;
+}
